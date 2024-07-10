@@ -10,7 +10,7 @@ import { MdLogout } from "react-icons/md";
 
 const LeftSidebar = () => {
   return (
-    <div>
+    <div className="w-[20%] ml-[-5rem] mt-4">
       {/* X logo */}
       <div>
         <img
